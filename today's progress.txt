@@ -1,0 +1,14 @@
+Level 5 — Number classification (prime, special numbers)
+44. Write a program to read a number and check whether it is prime or not.
+45. Write a program to display all prime numbers from 1 to n.
+46. Write a program to display the first n prime numbers.
+47. Write a program to check whether a number is an Armstrong number.
+48. Write a program to display all Armstrong numbers from 1 to n.
+49. Write a program to check whether a number is a perfect number.
+50. Write a program to check whether a number is a strong number (sum of factorials of its digits)
+51. Write a program to check whether a number is an automorphic number.
+52. Write a program to check whether a number is a Harshad (Niven) number.
+53. Write a program to find all factors (divisors) of a number n.
+54. Write a program to count the number of factors of a number n.
+55. Write a program to find the GCD (HCF) of two numbers.
+56. Write a program to find the LCM of two numbers.
